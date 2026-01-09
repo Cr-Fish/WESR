@@ -147,5 +147,13 @@ print(format_output_by_tag_type(results))
 If you find WESR helpful in your research, please cite our paper:
 
 ```
-pending
+@misc{yang2026wesrscalingevaluatingwordlevel,
+      title={WESR: Scaling and Evaluating Word-level Event-Speech Recognition}, 
+      author={Chenchen Yang and Kexin Huang and Liwei Fan and Qian Tu and Botian Jiang and Dong Zhang and Linqi Yin and Shimin Li and Zhaoye Fei and Qinyuan Cheng and Xipeng Qiu},
+      year={2026},
+      eprint={2601.04508},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.04508}, 
+}
 ```
