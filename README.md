@@ -1,4 +1,6 @@
 # WESR: Word-level Event-Speech Recognition
+[![arXiv](https://img.shields.io/badge/arXiv-2601.04508-b31b1b.svg)](http://arxiv.org/abs/2601.04508)
+[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/yfish/WESR-Bench)
 
 A comprehensive benchmark and baseline for detecting and localizing non-verbal vocal events in speech.
 
