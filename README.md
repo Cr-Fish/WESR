@@ -123,6 +123,12 @@ When using `tag_type="by_type"`, results are separated into three sections:
 
 ### Metrics Explained
 
+- **TP, FP, and FN**: Calculated with alignment and mapping, as shown in Figure.
+
+<p align="center">
+  <img src="images/eval.png" alt="Evaluation" width="50%">
+</p>
+
 - **Micro**: Aggregated across all instances
 - **Macro**: Averaged across all tag types
 
