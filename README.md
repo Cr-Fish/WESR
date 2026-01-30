@@ -4,6 +4,9 @@
 
 A comprehensive benchmark and baseline for detecting and localizing non-verbal vocal events in speech.
 
+## News
+- **2026-01**: 🎉 We have open-sourced **WESR-Bench** on Hugging Face. The WESR model is coming soon.
+
 ## Key Contributions
 
 **WESR-Bench**: 900+ expert-annotated utterances with a novel position-aware evaluation protocol that separates ASR errors from event detection, enabling measurement of both discrete (standalone) and continuous (mixed with speech) events. [Dataset on HuggingFace](https://huggingface.co/datasets/yfish/WESR-Bench)
